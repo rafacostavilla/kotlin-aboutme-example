@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Rafael Costa Villa</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">I am a software developer with a solid academic foundation in Computer Science and a demonstrated history of working with
+Java since 2014, from startups to multinational companies. In my last position as a LISP Implementation Specialist, I coded in a
+functional programming language called LISP, which is famous for being used for AI applications and inspiring advanced features
+for modern languages, like Lambda and mapping. Also, I have coded in various programming languages, like C, Ruby, SAS,
+ShellScript and Python, by instance, and different programming paradigms like OOP, database SQL, procedural, functional, and
+logical. I am also used to working in an Agile environment using Scrum methodologies and have strong communication and
+management skills. I aim for a position as a developer in a company that challenges me with innovation and out-of-the-box
+problems.
+    I am a software developer with a solid academic foundation in Computer Science and a demonstrated history of working with
+Java since 2014, from startups to multinational companies. In my last position as a LISP Implementation Specialist, I coded in a
+functional programming language called LISP, which is famous for being used for AI applications and inspiring advanced features
+for modern languages, like Lambda and mapping. Also, I have coded in various programming languages, like C, Ruby, SAS,
+ShellScript and Python, by instance, and different programming paradigms like OOP, database SQL, procedural, functional, and
+logical. I am also used to working in an Agile environment using Scrum methodologies and have strong communication and
+management skills. I aim for a position as a developer in a company that challenges me with innovation and out-of-the-box
+problems.</string>
+    <string name="whats_your_nickname">What is your nickname?</string>
+    <string name="done">DONE</string>
+</resources>
